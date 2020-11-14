@@ -1,5 +1,6 @@
 import '../assets/css/main.css';
 
+
 // import App from 'next/app'
 
 function App({ Component, pageProps }) {
