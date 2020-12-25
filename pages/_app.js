@@ -1,4 +1,4 @@
-import '../assets/css/main.css';
+import '../styles/main.css';
 
 
 // import App from 'next/app'

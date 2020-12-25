@@ -1,9 +1,10 @@
+
 function Login() {
     return (        
         <div className="container">
         <div className="login-container">
           <div className="login-img">
-            <img src="assets/coruja.gif" className="rounded" alt="coruja te vigiando" />
+            <img src="/coruja.gif" className="rounded" alt="coruja te vigiando" />
           </div>
           <h3 className="title-login cinzel-font">Owl Login</h3>
           <div className="login-fields">
